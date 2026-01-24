@@ -1,5 +1,5 @@
-import { misHabitos } from './data/habitos';
-import { HabitCard } from './components/HabitCard';
+import { misHabitos } from './mocks/habitos';
+import { HabitCard } from './components/habits/HabitCard';
 
 
 export default function App(){
